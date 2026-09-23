@@ -1,0 +1,112 @@
+Date and Time: 2025-11-24 06:40:40
+Games Played: 1
+Correct First Attempts: 0
+Correct Second Attempts: 0
+Incorrect Attempts: 10
+Total Score: 0 points
+
+Date and Time: 2025-11-24 06:44:55
+Games Played: 1
+Correct First Attempts: 7
+Correct Second Attempts: 1
+Incorrect Attempts: 2
+Total Score: 15 points
+
+Date and Time: 2025-11-24 06:58:53
+Games Played: 1
+Correct First Attempts: 0
+Correct Second Attempts: 0
+Incorrect Attempts: 10
+Total Score: 0 points
+
+Date and Time: 2025-11-24 07:10:24
+Games Played: 1
+Correct First Attempts: 0
+Correct Second Attempts: 0
+Incorrect Attempts: 10
+Total Score: 0 points
+
+Date and Time: 2025-11-24 07:16:38
+Games Played: 1
+Correct First Attempts: 0
+Correct Second Attempts: 0
+Incorrect Attempts: 10
+Total Score: 0 points
+
+Date and Time: 2025-11-24 07:23:20
+Games Played: 1
+Correct First Attempts: 0
+Correct Second Attempts: 0
+Incorrect Attempts: 10
+Total Score: 0 points
+
+Date and Time: 2025-11-24 08:03:53
+Games Played: 1
+Correct First Attempts: 0
+Correct Second Attempts: 0
+Incorrect Attempts: 10
+Total Score: 0 points
+
+Date and Time: 2025-11-24 08:20:56
+Games Played: 1
+Correct First Attempts: 0
+Correct Second Attempts: 0
+Incorrect Attempts: 10
+Total Score: 0 points
+
+Date and Time: 2025-11-25 09:45:07
+Games Played: 1
+Correct First Attempts: 0
+Correct Second Attempts: 0
+Incorrect Attempts: 10
+Score: 0 points
+
+Date and Time: 2025-11-25 13:39:12
+Games Played: 1
+Correct First Attempts: 0
+Correct Second Attempts: 0
+Incorrect Attempts: 10
+Total Score: 0 points
+
+Date and Time: 2025-11-25 13:40:02
+Games Played: 1
+Correct First Attempts: 0
+Correct Second Attempts: 0
+Incorrect Attempts: 10
+Total Score: 0 points
+
+Date and Time: 2025-11-25 13:57:13
+Games Played: 1
+Correct First Attempts: 9
+Correct Second Attempts: 1
+Incorrect Attempts: 0
+Total Score: 19 points
+
+Date and Time: 2025-11-30 10:07:36
+Games Played: 1
+Correct First Attempts: 0
+Correct Second Attempts: 0
+Incorrect Attempts: 10
+Total Score: 0 points
+
+Date and Time: 2025-11-30 12:41:07
+Games Played: 1
+Correct First Attempts: 0
+Correct Second Attempts: 0
+Incorrect Attempts: 10
+Total Score: 0 points
+
+Date and Time: 2025-11-30 14:57:04
+Games Played: 1
+Correct First Attempts: 0
+Correct Second Attempts: 0
+Incorrect Attempts: 10
+Total Score: 0 points
+
+Date and Time: 2025-11-30 15:00:32
+Games Played: 1
+Correct First Attempts: 0
+Correct Second Attempts: 0
+Incorrect Attempts: 10
+Total Score: 0 points
+

@@ -1,0 +1,50 @@
+
+My idea for MyGame came from the IoT project we did in Lab 7, where I had two ESP boards talking to each
+other (one acting as a sensor node and the other acting as the receiver/server). I liked the hardware communication
+I got to work with while building the IoT system, the delay in readings, and the random issues that
+happened when the sensors didn’t respond properly. That inspired me to turn it into a console based game.
+
+Below are the actual types of prompts and questions I asked the AI while building this project,
+plus the good and bad parts of the experience and what I learned while trying to work with it.
+
+The prompts I used are
+
+- “How can I turn an IoT sensor network into a text/console game?”
+- “What kind of options should I add so the user can manage the system”
+- “I'm getting "x" as my error in this "sensor.java" file help me find the cause”
+- “Show me how to structure my project”
+- “Give me ideas that would trigger sensors and causes malfunctions on Mars”
+- “Give me a rough example of a hierarchy if i want to have more than one sensor in the game”
+- “How should i include numbers in javadocs and it wont be considered as magic numbers”
+
+The best parts of using the AI
+
+The AI helped me think of ideas faster. When I got stuck or blanked out, especially on how to design the hierarchy
+for the different sensors, it gave me a push in the right direction. It didn’t give me perfect code, but the
+suggestions made me think of what I wanted to write. I stilll rewrote everything to match Jason’s style because
+the automatically generated stuff doesnt follow his rules.
+
+Another good part was using it to simplify explanations. Sometimes I would overthink something like “how should
+I validate the mode of the sensor?”, but the AI helped me realize I just needed an enum and one validator method.
+
+The random event system also came from a few back and forth chats where I asked it to generate ideas, becuase I didnt
+know what kind of "things" that can trigger sensors. That helped me shape what eventually became the dust storms,
+radiation spikes, and solar boosts.
+
+The worst parts and limitations
+Sometimes the AI wanted to give code that used things we never learned and I didnt quite understand the full version.
+I had to tell it multiple times that I can only use material we covered in class like streams, basic OOP, etc..
+but even then, I still had to rewrite or throw away large portions of the suggestions because they didn’t match our
+coding style and conventions.
+
+Another issue was overcomplication, the AI would sometimes suggest features that seemed cool but didn’t belong in
+my game scope, making a GUI, using input validation libraries, or adding extra classes that
+made no sense. I had to keep reminding it that this was a simple, console game and not a large professional project.
+
+Sometimes the explanations were very repetitive, or it tried to give me entire “pre-written” files that I didn’t
+want because everything must be my own writing. I eventually just took small ideas from the prompts and implemented
+the code manually in a way that fit my design.
+
+What I learned from using the AI
+I realized that AI is good at giving inspiration but not good at giving final code that fits strict course standards.
+I had to constantly filter the output.

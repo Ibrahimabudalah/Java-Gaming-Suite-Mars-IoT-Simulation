@@ -1,0 +1,31 @@
+lesson 1:   constants in class Sensor, CamSensor, TempSensor, HumiditySensor, MissionController
+            constructors in class Sensor, MissionController, MyGame
+            final variables in class Sensor, MyGame, PowerPolicy
+            enums in class PowerPolicy
+            Javadoc comments in all classes
+
+lesson 2:   inheritance in class Sensor and CamSensor, TempSensor, HumiditySensor
+            exceptions in class MissionController
+
+lesson 3:   abstract methods in class Sensor
+            abstract classes in class Sensor
+            substitution in class MissionController
+
+lesson 4:   interfaces in class TransmitData
+            functional interfaces in class TransmitData, MissionController
+
+lesson 5:   collections in class MissionController
+            iterators in class MissionController
+
+lesson 6:   lambda expressions in class MissionController, TransmitData
+
+lesson 7:   method references in class MissionController
+
+lesson 9:   scanner in class MissionController
+            file in class MissionController
+
+lesson 10:  streams and filters in class MissionController
+
+lesson 12:  JUnit testing in class SensorTest and MissionControllerTest
+
+lesson 13:  Command design pattern in class MyGame

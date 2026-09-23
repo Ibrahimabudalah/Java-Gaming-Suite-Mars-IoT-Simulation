@@ -1,0 +1,82 @@
+/* VBox layout */
+.root {
+    -fx-background-color: #1a237e;
+    -fx-padding: 30;
+    -fx-alignment: top-center;
+}
+
+.current-number-label {
+    -fx-font-family: "Consolas", monospace;
+    -fx-font-size: 28;
+    -fx-font-weight: bold;
+    -fx-text-fill: #00e676;
+    -fx-effect: dropshadow(gaussian, rgba(0, 230, 118, 0.7), 8, 0, 0, 0);
+    -fx-padding: 10;
+}
+
+/* The container for the 20 buttons */
+.grid-pane {
+    -fx-hgap: 15;
+    -fx-vgap: 15;
+    -fx-alignment: center;
+    -fx-padding: 20 0 0 0;
+}
+
+/* Empty slots in the grid */
+.grid-button {
+    -fx-pref-width: 90;
+    -fx-pref-height: 90;
+    -fx-font-family: "Segoe UI", sans-serif;
+    -fx-font-size: 18;
+    -fx-background-color: #3f51b5;
+    -fx-text-fill: #ffffff;
+    -fx-border-color: #7986cb;
+    -fx-border-width: 1;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+}
+
+/* Buttons in the grid when hovered over */
+.grid-button:hover {
+    -fx-background-color: #5c6bc0;
+}
+
+/* Buttons in the grid when disabled */
+.grid-button:disabled {
+    -fx-background-color: #4a148c;
+    -fx-text-fill: #ff4081;
+    -fx-font-weight: bold;
+    -fx-opacity: 1.0;
+    -fx-effect: innershadow(gaussian, rgba(255, 64, 129, 0.5), 10, 0, 0, 0);
+}
+
+/* Dialog VBox */
+.dialog-vbox {
+    -fx-background-color: #1a237e;
+    -fx-padding: 30;
+    -fx-alignment: center;
+    -fx-spacing: 15;
+    -fx-border-color: #00e676;
+    -fx-border-width: 2;
+}
+
+/* The text inside the popup */
+.dialog-message {
+    -fx-font-family: "Segoe UI", sans-serif;
+    -fx-font-size: 18;
+    -fx-text-fill: #00e676;
+    -fx-font-weight: bold;
+    -fx-text-alignment: center;
+}
+
+/* Popup buttons */
+.dialog-button {
+    -fx-background-color: #ff4081;
+    -fx-text-fill: #1a237e;
+    -fx-font-family: "Consolas", monospace;
+    -fx-font-size: 16;
+    -fx-font-weight: bold;
+    -fx-padding: 8 20 8 20;
+    -fx-background-radius: 3;
+    -fx-cursor: hand;
+}
